@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @naguib-med
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning IT master 
+- 🌱 I’m currently learning IT master at Lyon 1 University
 - 📫 How to reach me 
 
 <!---
