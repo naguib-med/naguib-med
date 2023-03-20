@@ -7,6 +7,9 @@
   <a href="https://www.linkedin.com/in/naguib-med/" target="\_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://exercism.org/profiles/Naguib/" target="\_blank">
+    <img src="https://d24y9kuxp2d7l2.cloudfront.net/assets/icons/exercism-with-logo-black-b427c06c6a068ba9f391734115e4d22dfa876d1d.svg" alt="exercism" />
+  </a>
   <a href="https://twitter.com/NaguibMohamed11" target="\_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
