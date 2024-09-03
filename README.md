@@ -48,15 +48,16 @@
 
 <h2>:man_technologist: About Me</h2>
 
-<h2>I'm full stack web developer with a passion for building beautiful, responsive, and scalable web applications</h2>
+<h2>I'm a full stack web developer with a passion for building beautiful, responsive, and scalable web applications</h2>
 
 <h3>I'm from France, Lyon 🇫🇷</h3>
 
-<h3>🎓 I'm currently studying Computer Science at the University of Lyon</h3>
+<h3>🎓 I obtained my Master's degree in Computer Science, specializing in Information Technologies and Web (TIW), from Claude Bernard University Lyon 1 this year</h3>
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems on GeeksforGeeks, codechef, hackerrank, hackerearth, and I read tech articles.
+<ul>
+    <li>🌱 Exploring Technical Content Writing.</li>
+    <li>⚡ In my free time, I solve problems on GeeksforGeeks, CodeChef, HackerRank, HackerEarth, and I read tech articles.</li>
+</ul>
 
 ---
 
