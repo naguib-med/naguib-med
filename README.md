@@ -1,7 +1,6 @@
 <h1 style="font-weight: bold; text-align: center;">Welcome to My GitHub Profile!</h1>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="180" style="border-radius: 10px;"/>
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/naguib-med/" target="\_blank"> 
