@@ -1,8 +1,10 @@
-<h1 align="center" style="font-weight: bold; color: #ff6347; font-size: 3em; text-shadow: 2px 2px #000;">🚀 Welcome to Naguib's GitHub Profile!</h1>
+<h1 align="center" style="font-weight: bold; color: #ff6347; font-size: 3em; text-shadow: 3px 3px #000;">🚀 Welcome to Naguib's GitHub Universe!</h1>
 
 <div id="header" align="center">
+  <!-- Rocket animation -->
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="rocket animation" />
 
+  <!-- Social Media Badges -->
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/naguib-med/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -29,83 +31,144 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </div>
+  
+  <!-- Profile View Counter -->
   <img src="https://komarev.com/ghpvc/?username=naguib-med&style=flat-square&color=blue" alt="Profile views counter" />
+  
+  <!-- Custom Welcome Animation -->
+  <h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=24&duration=5000&color=F75C7E&center=true&vCenter=true&lines=Welcome+to+My+Creative+Hub!" alt="Typing SVG" />
+  </h2>
 </div>
 
 ---
 
-<h2 align="center" style="color: #f39c12;">💡 About Me:</h2>
+<h2 align="center" style="color: #f39c12;">💡 About Me (Interactive):</h2>
 
 <p align="center" style="font-size: 1.5em; color: #2ecc71; line-height: 1.6;">
-  I'm a <strong>Full Stack Web Developer</strong> from <strong>Lyon, France</strong> 🇫🇷. I specialize in creating <strong>scalable</strong> and <strong>responsive</strong> web applications that bring ideas to life.
+  Hey! I’m <strong>Naguib Mohamed Mahamoud</strong>, a <strong>Full Stack Web Developer</strong> from Lyon, France 🇫🇷, specialized in crafting <strong>scalable</strong>, <strong>beautiful</strong> and <strong>high-performance</strong> applications.
 </p>
 
+<!-- ASCII art for a more unique welcome -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Creative+Full+Stack+Developer;Building+scalable+web+applications;Constantly+learning+and+evolving;Let%27s+build+something+awesome+together!" alt="Typing SVG" />
+  <pre style="font-size: 14px; color: #00ff00; font-family: monospace;">
+       _______  __    _  _______  ___   _  _______ 
+      |       ||  |  | ||       ||   | | ||       |
+      |    ___||   |_| ||    ___||   |_| ||    ___|
+      |   |___ |       ||   | __ |      _||   |___ 
+      |    ___||  _    ||   ||  ||     |_ |    ___|
+      |   |___ | | |   ||   |_| ||    _  ||   |___ 
+      |_______||_|  |__||_______||___| |_||_______|
+  </pre>
+</div>
+
+<div align="center">
+  <!-- Advanced SVG Animation for Originality -->
+  <img src="https://raw.githubusercontent.com/naguib-med/naguib-med/main/code-rain.svg" alt="Code Rain SVG Animation" />
 </div>
 
 ---
 
-<h2 align="center" style="color: #2980b9;">🛠️ My Technical Toolbox:</h2>
+<h2 align="center" style="color: #2980b9;">🛠️ My Tech Stack (3D-Visualized):</h2>
 
+<!-- Skill Icons with Animation Effect -->
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,nestjs,spring,java,mysql,git,aws,postman&theme=light" alt="Tech Stack Icons" />
-</div>
-
----
-
-<h2 align="center" style="color: #e74c3c;">📈 GitHub Stats:</h2>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naguib-med&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naguib-med&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naguib-med&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
----
-
-<h2 align="center" style="color: #8e44ad;">🏆 GitHub Trophies:</h2>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naguib-med&theme=matrix&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
-</div>
-
----
-
-<h2 align="center" style="color: #16a085;">✨ Featured Projects:</h2>
-
-<div align="center">
-  <a href="https://github.com/naguib-med/project-1" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naguib-med&repo=project-1&theme=gruvbox" alt="Featured Project 1" />
-  </a>
-  <a href="https://github.com/naguib-med/project-2" style="text-decoration: none;">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naguib-med&repo=project-2&theme=gruvbox" alt="Featured Project 2" />
+  <a href="https://skillicons.dev" target="_blank">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nestjs,express,spring,java,python,aws,git,kubernetes,postgresql&theme=dark" alt="Tech Stack Icons" />
   </a>
 </div>
 
+<!-- Dynamic 3D Globe for Global Collaboration -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/naguib-med/naguib-med/main/3d-globe.svg" width="400" height="400" alt="Interactive Globe" />
+</div>
+
 ---
 
-<h2 align="center" style="color: #d35400;">🎯 On My Radar:</h2>
+<h2 align="center" style="color: #e74c3c;">📊 GitHub Activity (Advanced Visualization):</h2>
 
 <div align="center">
+  <!-- GitHub Stats with Complex Themes -->
+  <img src="https://github-readme-stats.vercel.app/api?username=naguib-med&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naguib-med&theme=dark" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <!-- Dynamic Contribution Graph (Snake Animation) -->
+  <img src="https://github.com/naguib-med/naguib-med/blob/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" />
+</div>
+
+---
+
+<h2 align="center" style="color: #8e44ad;">🏆 GitHub Trophies (Ultra-Complex View):</h2>
+
+<div align="center">
+  <!-- GitHub Trophies with Complex Layout -->
+  <img src="https://github-profile-trophy.vercel.app/?username=naguib-med&theme=juicyfresh&no-frame=true&row=2&column=5" alt="GitHub Trophies" />
+</div>
+
+---
+
+<h2 align="center" style="color: #16a085;">✨ Featured Projects (With Links):</h2>
+
+<div align="center">
+  <!-- Featured Projects with High-Resolution Thumbnails -->
+  <a href="https://github.com/naguib-med/project-1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naguib-med&repo=project-1&theme=radical" alt="Featured Project 1" />
+  </a>
+  <a href="https://github.com/naguib-med/project-2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naguib-med&repo=project-2&theme=radical" alt="Featured Project 2" />
+  </a>
+</div>
+
+---
+
+<h2 align="center" style="color: #d35400;">🚀 On My Radar:</h2>
+
+<div align="center">
+  <!-- 3D-Visualizations of Projects I'm Currently Working On -->
   <ul style="list-style-type: none; font-size: 1.5em; color: #27ae60;">
-    <li>🔭 Currently working on: <strong>E-commerce Platform</strong></li>
-    <li>🚀 Learning Next.js & Kubernetes</li>
-    <li>🤝 Open to collaborations on <strong>Java</strong> and <strong>Node.js</strong> projects</li>
-    <li>💬 Ask me about <strong>Spring Boot</strong> and <strong>API development</strong></li>
+    <li>🔭 <strong>Building an E-commerce Platform</strong> using React, NestJS, and PostgreSQL</li>
+    <li>🚀 Exploring <strong>Next.js</strong> and <strong>Kubernetes</strong> for future projects</li>
+    <li>🤝 Open to collaborations in <strong>Java</strong> and <strong>Node.js</strong> ecosystems</li>
+    <li>💬 Feel free to ask me about <strong>APIs</strong>, <strong>Cloud Solutions</strong>, or <strong>Scaling Applications</strong></li>
   </ul>
 </div>
 
 ---
 
-<h2 align="center" style="color: #c0392b;">🌟 Let's Connect!</h2>
+<h2 align="center" style="color: #c0392b;">🎯 Contact Me:</h2>
 
-<p align="center" style="font-size: 1.3em;">
-  Feel free to reach out if you’d like to collaborate or just have a chat about tech!
-  <br>
-  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" /> 
-  <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord Badge" />
-</p>
+<div align="center">
+  <!-- Contact Form or Interactive Email CTA -->
+  <p style="font-size: 1.3em;">I'm always open to connect and collaborate! Reach out to me via <a href="mailto:moma.naguib@gmail.com">Email</a> or through any of the platforms below:</p>
+  
+  <!-- Social Icons -->
+  <a href="https://www.linkedin.com/in/naguib-med/">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/NaguibMohamed11">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="Buigan#0001">
+    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord" />
+  </a>
+</div>
+
+<!-- Footer ASCII art for a final unique touch -->
+<div align="center">
+  <pre style="font-size: 12px; color: #ff6347;">
+       _______  ______    _______  __   __  ___   _  _______ 
+      |       ||    _ |  |       ||  | |  ||   | | ||       |
+      |    ___||   | ||  |    ___||  |_|  ||   |_| ||    ___|
+      |   |___ |   |_||_ |   |___ |       ||      _||   |___ 
+      |    ___||    __  ||    ___||       ||     |_ |    ___|
+      |   |___ |   |  | ||   |___ |   _   ||    _  ||   |___ 
+      |_______||___|  |_||_______||__| |__||___| |_||_______|
+  </pre>
+</div>
+
+---
 
 <!---
 naguib-med/naguib-med is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
