@@ -1,0 +1,25 @@
+name: Generate Snake Animation
+
+on:
+  schedule: # Run at 5:00 AM UTC every day
+    - cron: "0 5 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout the repository
+        uses: actions/checkout@v2
+
+      - name: Generate Snake Game from Contribution Grid
+        uses: Platane/snk@v2.1.0
+        with:
+          github_user_name: naguib-med
+          outputs: dist/snake.svg
+
+      - name: Upload the Snake Game
+        uses: actions/upload-artifact@v2
+        with:
+          name: snake-game
+          path: dist/snake.svg
