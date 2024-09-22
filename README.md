@@ -76,6 +76,40 @@
 
 ---
 
+<h2>📊 GitHub Stats:</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=naguib-med&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naguib-med&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naguib-med&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</div>
+
+---
+
+<h2>🏆 GitHub Trophies:</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=naguib-med&theme=darkhub&no-frame=true&column=6&margin-w=5" alt="GitHub Trophies" />
+</div>
+
+---
+
+<h2>🌟 Top Contributions & Repositories:</h2>
+
+<ul>
+  <li><a href="https://github.com/naguib-med/your-top-repository">Top Project 1</a></li>
+  <li><a href="https://github.com/naguib-med/your-second-top-repository">Top Project 2</a></li>
+  <li><a href="https://github.com/naguib-med/your-third-top-repository">Top Project 3</a></li>
+</ul>
+
+---
+
+<h2>🌱 Let's Connect!</h2>
+
+<p align="center">
+  If you want to collaborate, discuss ideas, or just have a chat, feel free to reach out to me on any of the platforms listed above!
+</p>
+
 <!---
 naguib-med/naguib-med is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
