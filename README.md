@@ -1,8 +1,9 @@
-<h1 style="font-weight: bold; text-align: center;">Welcome to My GitHub Profile</h1>
+<h1 align="center" style="font-weight: bold; color: #ff6347; font-size: 3em; text-shadow: 2px 2px #000;">🚀 Welcome to Naguib's GitHub Profile!</h1>
 
 <div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="rocket animation" />
 
-  <div id="badges">
+  <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/naguib-med/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
@@ -28,86 +29,82 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </div>
-
   <img src="https://komarev.com/ghpvc/?username=naguib-med&style=flat-square&color=blue" alt="Profile views counter" />
-  
-  <h1>Hello! <img src="https://media.giphy.com/media/MPxg9U887PS0B8XT4J/giphy.gif" width="30px" alt="Waving hand" /></h1>
-
 </div>
+
+---
+
+<h2 align="center" style="color: #f39c12;">💡 About Me:</h2>
+
+<p align="center" style="font-size: 1.5em; color: #2ecc71; line-height: 1.6;">
+  I'm a <strong>Full Stack Web Developer</strong> from <strong>Lyon, France</strong> 🇫🇷. I specialize in creating <strong>scalable</strong> and <strong>responsive</strong> web applications that bring ideas to life.
+</p>
 
 <div align="center">
-  <img src="https://i.gifer.com/6M8G.gif" width="600" height="300" alt="Animated coding GIF" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&color=F75C7E&center=true&vCenter=true&width=600&lines=Creative+Full+Stack+Developer;Building+scalable+web+applications;Constantly+learning+and+evolving;Let%27s+build+something+awesome+together!" alt="Typing SVG" />
 </div>
 
 ---
 
-<h2>:man_technologist: About Me</h2>
-
-<h3>A Full Stack Web Developer Building Scalable, Responsive Applications</h3>
-
-<p>I'm Naguib, based in Lyon, France 🇫🇷. I recently completed my Master’s in Information Technologies and Web from Claude Bernard University Lyon 1.</p>
-
-<ul>
-  <li>🌱 Currently exploring Technical Content Writing</li>
-  <li>⚡ In my free time, I enjoy solving coding challenges on GeeksforGeeks, CodeChef, and HackerRank.</li>
-  <li>📚 Passionate about staying up-to-date with the latest technologies and trends in web development.</li>
-</ul>
-
----
-
-<h2>🛠️ Tech Stack and Tools:</h2>
+<h2 align="center" style="color: #2980b9;">🛠️ My Technical Toolbox:</h2>
 
 <div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="image/fabricjs.png" title="Fabric.js" alt="Fabric.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,express,react,nestjs,spring,java,mysql,git,aws,postman&theme=light" alt="Tech Stack Icons" />
 </div>
 
 ---
 
-<h2>📊 GitHub Stats:</h2>
+<h2 align="center" style="color: #e74c3c;">📈 GitHub Stats:</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=naguib-med&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naguib-med&theme=tokyonight" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naguib-med&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=naguib-med&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naguib-med&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=naguib-med&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---
 
-<h2>🏆 GitHub Trophies:</h2>
+<h2 align="center" style="color: #8e44ad;">🏆 GitHub Trophies:</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=naguib-med&theme=darkhub&no-frame=true&column=6&margin-w=5" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=naguib-med&theme=matrix&no-bg=true&margin-w=10&column=6" alt="GitHub Trophies" />
 </div>
 
 ---
 
-<h2>🌟 Top Contributions & Repositories:</h2>
+<h2 align="center" style="color: #16a085;">✨ Featured Projects:</h2>
 
-<ul>
-  <li><a href="https://github.com/naguib-med/your-top-repository">Top Project 1</a></li>
-  <li><a href="https://github.com/naguib-med/your-second-top-repository">Top Project 2</a></li>
-  <li><a href="https://github.com/naguib-med/your-third-top-repository">Top Project 3</a></li>
-</ul>
+<div align="center">
+  <a href="https://github.com/naguib-med/project-1" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naguib-med&repo=project-1&theme=gruvbox" alt="Featured Project 1" />
+  </a>
+  <a href="https://github.com/naguib-med/project-2" style="text-decoration: none;">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naguib-med&repo=project-2&theme=gruvbox" alt="Featured Project 2" />
+  </a>
+</div>
 
 ---
 
-<h2>🌱 Let's Connect!</h2>
+<h2 align="center" style="color: #d35400;">🎯 On My Radar:</h2>
 
-<p align="center">
-  If you want to collaborate, discuss ideas, or just have a chat, feel free to reach out to me on any of the platforms listed above!
+<div align="center">
+  <ul style="list-style-type: none; font-size: 1.5em; color: #27ae60;">
+    <li>🔭 Currently working on: <strong>E-commerce Platform</strong></li>
+    <li>🚀 Learning Next.js & Kubernetes</li>
+    <li>🤝 Open to collaborations on <strong>Java</strong> and <strong>Node.js</strong> projects</li>
+    <li>💬 Ask me about <strong>Spring Boot</strong> and <strong>API development</strong></li>
+  </ul>
+</div>
+
+---
+
+<h2 align="center" style="color: #c0392b;">🌟 Let's Connect!</h2>
+
+<p align="center" style="font-size: 1.3em;">
+  Feel free to reach out if you’d like to collaborate or just have a chat about tech!
+  <br>
+  <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn Badge" /> 
+  <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord Badge" />
 </p>
 
 <!---
