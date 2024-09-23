@@ -85,14 +85,6 @@
 
 ---
 
-<h2 align="center" style="color: #e74c3c;">📊 GitHub Activity (Advanced Visualization):</h2>
-
-<div align="center">
-  <!-- GitHub Stats with Complex Themes -->
-  <img src="https://github-readme-stats.vercel.app/api?username=naguib-med&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=naguib-med&theme=dark" alt="GitHub Streak" />
-</div>
-
 <div align="center">
   <!-- Dynamic Contribution Graph (Snake Animation) -->
   <img src="https://raw.githubusercontent.com/naguib-med/naguib-med/output/github-contribution-grid-snake.svg" alt="Snake Contribution Animation" />
