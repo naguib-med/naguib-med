@@ -85,20 +85,6 @@
 
 ---
 
-<h2 align="center" style="color: #16a085;">✨ Featured Projects (With Links):</h2>
-
-<div align="center">
-  <!-- Featured Projects with High-Resolution Thumbnails -->
-  <a href="https://github.com/naguib-med/project-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naguib-med&repo=project-1&theme=radical" alt="Featured Project 1" />
-  </a>
-  <a href="https://github.com/naguib-med/project-2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=naguib-med&repo=project-2&theme=radical" alt="Featured Project 2" />
-  </a>
-</div>
-
----
-
 <h2 align="center" style="color: #d35400;">🚀 On My Radar:</h2>
 
 <div align="center">
