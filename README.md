@@ -1,11 +1,11 @@
-<h1 align="center" style="font-weight: bold; color: #ff6347; font-size: 3em; text-shadow: 3px 3px #000;">🚀 Welcome to Naguib's GitHub Universe!</h1>
+<h1 align="center" style="font-weight: bold; color: #ff6347; font-size: 3em; text-shadow: 3px 3px #000;">🚀 Bienvenue dans l'univers GitHub de Naguib !</h1>
 
 <div id="header" align="center">
   <!-- Rocket animation -->
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="rocket animation" />
-  
-  <!-- Language Buttons -->
-  <h3 align="center">🌐 Select Your Language:</h3>
+
+  <!-- Boutons de langue -->
+  <h3 align="center">🌐 Sélectionnez votre langue :</h3>
   <div id="language-buttons" align="center">
     <a href="README.en.md">
       <img src="https://img.shields.io/badge/🇬🇧-English-blue" alt="English" />
@@ -24,7 +24,7 @@
     </a>
   </div>
 
-  <!-- Social Media Badges -->
+  <!-- Badges Réseaux sociaux -->
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/naguib-med/" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -51,13 +51,9 @@
       <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </div>
-  
-  <!-- Profile View Counter -->
-  <img src="https://komarev.com/ghpvc/?username=naguib-med&style=flat-square&color=blue" alt="Profile views counter" />
-  
+
   <!-- Custom Welcome Animation -->
   <h2 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=24&duration=5000&color=F75C7E&center=true&vCenter=true&lines=Welcome+to+My+Creative+Hub!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Monoton&size=24&duration=5000&color=F75C7E&center=true&vCenter=true&lines=Bienvenue+à+mon+Hub+créatif!" alt="Typing SVG" />
   </h2>
 </div>
-
