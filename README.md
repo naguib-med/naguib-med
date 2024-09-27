@@ -120,13 +120,13 @@
   <p style="font-size: 1.3em;">I'm always open to connect and collaborate! Reach out to me via <a href="mailto:moma.naguib@gmail.com">Email</a> or through any of the platforms below:</p>
   
   <!-- Social Icons -->
-  <a href="https://www.linkedin.com/in/naguib-med/">
+  <a href="https://www.linkedin.com/in/naguib-mohamed-mahamoud-3baa96177/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://twitter.com/NaguibMohamed11">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" />
   </a>
-  <a href="Buigan#0001">
+  <a href="buigan">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord" />
   </a>
 </div>
