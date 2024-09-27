@@ -25,7 +25,17 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      # generates a snake game from a GitHub user's contributions graph, output a svg animation
+      # install node and required dependencies
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '16'
+          
+      - name: Install canvas module
+        run: |
+          npm install canvas
+
+      # generates a snake game from a GitHub user's contributions graph, output a svg and gif animation
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3.2.0
         with:
