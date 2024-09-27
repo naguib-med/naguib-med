@@ -62,13 +62,6 @@
   </pre>
 </div>
 
-<div align="center">
-  <!-- Advanced SVG Animation for Originality -->
-  <img src="https://raw.githubusercontent.com/naguib-med/naguib-med/main/code-rain.svg" alt="Code Rain SVG Animation" />
-</div>
-
----
-
 <h2 align="center" style="color: #2980b9;">🛠️ My Tech Stack (3D-Visualized):</h2>
 
 <!-- Skill Icons with Animation Effect -->
