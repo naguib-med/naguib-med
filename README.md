@@ -49,20 +49,7 @@
   Hey! I’m <strong>Naguib Mohamed Mahamoud</strong>, a <strong>Full Stack Web Developer</strong> from Lyon, France 🇫🇷, specialized in crafting <strong>scalable</strong>, <strong>beautiful</strong> and <strong>high-performance</strong> applications.
 </p>
 
-<!-- ASCII art for a more unique welcome -->
-<div align="center">
-  <pre style="font-size: 14px; color: #00ff00; font-family: monospace;">
-       _______  __    _  _______  ___   _  _______ 
-      |       ||  |  | ||       ||   | | ||       |
-      |    ___||   |_| ||    ___||   |_| ||    ___|
-      |   |___ |       ||   | __ |      _||   |___ 
-      |    ___||  _    ||   ||  ||     |_ |    ___|
-      |   |___ | | |   ||   |_| ||    _  ||   |___ 
-      |_______||_|  |__||_______||___| |_||_______|
-  </pre>
-</div>
-
-<h2 align="center" style="color: #2980b9;">🛠️ My Tech Stack (3D-Visualized):</h2>
+<h2 align="center" style="color: #2980b9;">🛠️ My Tech Stack:</h2>
 
 <!-- Skill Icons with Animation Effect -->
 <div align="center">
@@ -115,19 +102,6 @@
   <a href="buigan">
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord" />
   </a>
-</div>
-
-<!-- Footer ASCII art for a final unique touch -->
-<div align="center">
-  <pre style="font-size: 12px; color: #ff6347;">
-       _______  ______    _______  __   __  ___   _  _______ 
-      |       ||    _ |  |       ||  | |  ||   | | ||       |
-      |    ___||   | ||  |    ___||  |_|  ||   |_| ||    ___|
-      |   |___ |   |_||_ |   |___ |       ||      _||   |___ 
-      |    ___||    __  ||    ___||       ||     |_ |    ___|
-      |   |___ |   |  | ||   |___ |   _   ||    _  ||   |___ 
-      |_______||___|  |_||_______||__| |__||___| |_||_______|
-  </pre>
 </div>
 
 ---
