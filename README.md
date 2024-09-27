@@ -4,6 +4,26 @@
   <!-- Rocket animation -->
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="rocket animation" />
   
+  <!-- Language Buttons -->
+  <h3 align="center">🌐 Select Your Language:</h3>
+  <div id="language-buttons" align="center">
+    <a href="README.en.md">
+      <img src="https://img.shields.io/badge/🇬🇧-English-blue" alt="English" />
+    </a>
+    <a href="README.fr.md">
+      <img src="https://img.shields.io/badge/🇫🇷-Français-blue" alt="Français" />
+    </a>
+    <a href="README.es.md">
+      <img src="https://img.shields.io/badge/🇪🇸-Español-yellow" alt="Español" />
+    </a>
+    <a href="README.ar.md">
+      <img src="https://img.shields.io/badge/🇸🇦-العربية-green" alt="العربية" />
+    </a>
+    <a href="README.zh.md">
+      <img src="https://img.shields.io/badge/🇨🇳-中文-red" alt="中文" />
+    </a>
+  </div>
+
   <!-- Social Media Badges -->
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/naguib-med/" target="_blank">
@@ -41,65 +61,3 @@
   </h2>
 </div>
 
----
-
-<h2 align="center" style="color: #f39c12;">💡 About Me (Interactive):</h2>
-
-<p align="center" style="font-size: 1.5em; color: #2ecc71; line-height: 1.6;">
-  Hey! I’m <strong>Naguib Mohamed Mahamoud</strong>, a <strong>Full Stack Web Developer</strong> from Lyon, France 🇫🇷, specialized in crafting <strong>scalable</strong>, <strong>beautiful</strong> and <strong>high-performance</strong> applications.
-</p>
-
-<h2 align="center" style="color: #2980b9;">🛠️ My Tech Stack:</h2>
-
-<!-- Skill Icons with Animation Effect -->
-<div align="center">
-  <a href="https://skillicons.dev" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,nodejs,react,nestjs,express,spring,java,python,aws,git,kubernetes,postgresql&theme=dark" alt="Tech Stack Icons" />
-  </a>
-</div>
-
-<!-- Dynamic 3D Globe for Global Collaboration -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/naguib-med/naguib-med/main/3d-globe.svg" width="400" height="400" alt="Interactive Globe" />
-</div>
-
----
-
-<div align="center">
-  <!-- Dynamic Contribution Graph (Snake Animation) -->
-  <img src="https://raw.githubusercontent.com/naguib-med/naguib-med/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" />
-</div>
-
----
-
-<h2 align="center" style="color: #d35400;">🚀 On My Radar:</h2>
-
-<div align="center">
-  <!-- 3D-Visualizations of Projects I'm Currently Working On -->
-  <ul style="list-style-type: none; font-size: 1.5em; color: #27ae60;">
-    <li>🔭 <strong>Building an E-commerce Platform</strong> using React, NestJS, and PostgreSQL</li>
-    <li>🚀 Exploring <strong>Next.js</strong> and <strong>Kubernetes</strong> for future projects</li>
-    <li>🤝 Open to collaborations in <strong>Java</strong> and <strong>Node.js</strong> ecosystems</li>
-    <li>💬 Feel free to ask me about <strong>APIs</strong>, <strong>Cloud Solutions</strong>, or <strong>Scaling Applications</strong></li>
-  </ul>
-</div>
-
----
-
-<h2 align="center" style="color: #c0392b;">🎯 Contact Me:</h2>
-
-<div align="center">
-  <!-- Contact Form or Interactive Email CTA -->
-  <p style="font-size: 1.3em;">I'm always open to connect and collaborate! Reach out to me via <a href="mailto:moma.naguib@gmail.com">Email</a> or through any of the platforms below:</p>
-  
-  <!-- Social Icons -->
-  <a href="https://www.linkedin.com/in/naguib-mohamed-mahamoud-3baa96177/">
-    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/NaguibMohamed11">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="buigan">
-    <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord" />
-  </a>
-</div>
