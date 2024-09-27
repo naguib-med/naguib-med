@@ -94,7 +94,7 @@
 
 <h2 align="center" style="color: #d35400;">🚀 On My Radar:</h2>
 
-<div align="center">
+<div>
   <!-- 3D-Visualizations of Projects I'm Currently Working On -->
   <ul style="list-style-type: none; font-size: 1.5em; color: #27ae60;">
     <li>🔭 <strong>Building an E-commerce Platform</strong> using React, NestJS, and PostgreSQL</li>
