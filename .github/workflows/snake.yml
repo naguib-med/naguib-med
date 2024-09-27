@@ -25,17 +25,7 @@ jobs:
       - name: Checkout the repository
         uses: actions/checkout@v2
 
-      # install node and required dependencies
-      - name: Setup Node.js
-        uses: actions/setup-node@v2
-        with:
-          node-version: '16'
-          
-      - name: Install canvas module
-        run: |
-          npm install canvas
-
-      # generates a snake game from a GitHub user's contributions graph, output a svg and gif animation
+      # generates a snake game from a GitHub user's contributions graph, output a svg animation
       - name: generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3.2.0
         with:
@@ -43,7 +33,6 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-            dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
           
       # push the generated SVGs to the output branch
       - name: push github-contribution-grid-snake.svg to the output branch
