@@ -4,6 +4,26 @@
   <!-- Rocket animation -->
   <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="rocket animation" />
 
+  <!-- Translation Buttons -->
+  <h3 align="center">🌐 Translate:</h3>
+  <div id="translate-buttons" align="center">
+    <a href="https://translate.google.com/translate?hl=en&sl=auto&tl=fr&u=https://github.com/naguib-med/naguib-med" target="_blank">
+      <img src="https://img.shields.io/badge/🇫🇷-French-blue" alt="Translate to French" />
+    </a>
+    <a href="https://translate.google.com/translate?hl=en&sl=auto&tl=es&u=https://github.com/naguib-med/naguib-med" target="_blank">
+      <img src="https://img.shields.io/badge/🇪🇸-Spanish-yellow" alt="Translate to Spanish" />
+    </a>
+    <a href="https://translate.google.com/translate?hl=en&sl=auto&tl=ar&u=https://github.com/naguib-med/naguib-med" target="_blank">
+      <img src="https://img.shields.io/badge/🇸🇦-Arabic-green" alt="Translate to Arabic" />
+    </a>
+    <a href="https://translate.google.com/translate?hl=en&sl=auto&tl=zh-CN&u=https://github.com/naguib-med/naguib-med" target="_blank">
+      <img src="https://img.shields.io/badge/🇨🇳-Chinese-red" alt="Translate to Chinese" />
+    </a>
+    <a href="https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https://github.com/naguib-med/naguib-med" target="_blank">
+      <img src="https://img.shields.io/badge/🇬🇧-English-gray" alt="Translate to English" />
+    </a>
+  </div>
+  
   <!-- Social Media Badges -->
   <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/naguib-med/" target="_blank">
@@ -103,10 +123,3 @@
     <img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=Discord&logoColor=white" alt="Discord" />
   </a>
 </div>
-
----
-
-<!---
-naguib-med/naguib-med is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
