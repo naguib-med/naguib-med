@@ -85,15 +85,6 @@
 
 ---
 
-<h2 align="center" style="color: #8e44ad;">🏆 GitHub Trophies (Ultra-Complex View):</h2>
-
-<div align="center">
-  <!-- GitHub Trophies with Complex Layout -->
-  <img src="https://github-profile-trophy.vercel.app/?username=naguib-med&theme=juicyfresh&no-frame=true&row=2&column=5" alt="GitHub Trophies" />
-</div>
-
----
-
 <h2 align="center" style="color: #16a085;">✨ Featured Projects (With Links):</h2>
 
 <div align="center">
