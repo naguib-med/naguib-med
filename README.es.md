@@ -88,7 +88,7 @@
 
 <h2 align="center" style="color: #d35400;">🚀 En mi radar:</h2>
 
-<div align="center">
+<div>
   <ul style="list-style-type: none; font-size: 1.5em; color: #27ae60;">
     <li>🔭 <strong>Desarrollando una plataforma de comercio electrónico</strong> con React, NestJS y PostgreSQL</li>
     <li>🚀 Explorando <strong>Next.js</strong> y <strong>Kubernetes</strong> para futuros proyectos</li>
