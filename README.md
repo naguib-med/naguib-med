@@ -90,19 +90,6 @@
   <img src="https://raw.githubusercontent.com/naguib-med/naguib-med/output/github-contribution-grid-snake-dark.svg" alt="Snake Contribution Animation" />
 </div>
 
----
-
-<h2 align="center" style="color: #d35400;">🚀 On My Radar:</h2>
-
-<div>
-  <!-- 3D-Visualizations of Projects I'm Currently Working On -->
-  <ul style="list-style-type: none; font-size: 1.5em; color: #27ae60;">
-    <li>🔭 <strong>Building an E-commerce Platform</strong> using React, NestJS, and PostgreSQL</li>
-    <li>🚀 Exploring <strong>Next.js</strong> and <strong>Kubernetes</strong> for future projects</li>
-    <li>🤝 Open to collaborations in <strong>Java</strong> and <strong>Node.js</strong> ecosystems</li>
-    <li>💬 Feel free to ask me about <strong>APIs</strong>, <strong>Cloud Solutions</strong>, or <strong>Scaling Applications</strong></li>
-  </ul>
-</div>
 
 ---
 
