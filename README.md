@@ -1,9 +1,6 @@
 <h1 align="center" style="font-weight: bold; color: #ff6347; font-size: 3em; text-shadow: 3px 3px #000;">🚀 Welcome to Naguib's GitHub Universe!</h1>
 
-<div id="header" align="center">
-  <!-- Rocket animation -->
-  <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="200" alt="rocket animation" />
-  
+<div id="header" align="center">  
   <!-- Language Buttons -->
   <h3 align="center">🌐 Select Your Language:</h3>
   <div id="language-buttons" align="center">
