@@ -1,15 +1,56 @@
 <div align="center">
 
-# Hey, moi c'est Naguib !
+# Hey👋, moi c'est Naguib !
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Cloud+Architecture;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=naguib-med&style=for-the-badge&color=1f6feb)](https://github.com/naguib-med)
 
+[<img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/naguib-med/)
+[<img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/NaguibMohamed11)
+[<img src="https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />](https://discordapp.com/users/Buigan#0001)
 </div>
+
+## 🚀 À Propos de Moi
+
+```javascript
+const naguib = {
+    location: "Lyon, France 🇫🇷",
+    currentFocus: "Full Stack Development",
+    technologies: {
+        frontend: ["React", "Next.js", "JavaScript", "TypeScript", "HTML5", "CSS3"],
+        backend: ["Node.js", "Express.js", "NestJS", "Spring Boot", "Java"],
+        cloud: ["AWS", "Kubernetes"],
+        database: ["MongoDB", "MySQL", "PostgreSQL"]
+    },
+    funFact: "Je code mieux avec du café ☕"
+};
+```
+
+## 💫 Tech Stack
+
+<div align="center">
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+
+### Backend
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+### Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
+
 <div id="header" align="center">  
   <!-- Language Buttons -->
-  <h3 align="center">🌐 Select Your Language:</h3>
+<!--   <h3 align="center">🌐 Select Your Language:</h3>
   <div id="language-buttons" align="center">
     <a href="README.md">
       <img src="https://img.shields.io/badge/🇬🇧-English-blue" alt="English" />
@@ -26,7 +67,7 @@
     <a href="README.zh.md">
       <img src="https://img.shields.io/badge/🇨🇳-中文-red" alt="中文" />
     </a>
-  </div>
+  </div> -->
 
   <!-- Social Media Badges -->
   <div id="badges" align="center">
