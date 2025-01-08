@@ -1,5 +1,12 @@
-<h1 align="center" style="font-weight: bold; color: #ff6347; font-size: 3em; text-shadow: 3px 3px #000;">🚀 Welcome to Naguib's GitHub Universe!</h1>
+<div align="center">
 
+# ✨ Naguib Mohamed Mahamoud
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Cloud+Architecture;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+
+[![Profile Views](https://komarev.com/ghpvc/?username=naguib-med&style=for-the-badge&color=1f6feb)](https://github.com/naguib-med)
+
+</div>
 <div id="header" align="center">  
   <!-- Language Buttons -->
   <h3 align="center">🌐 Select Your Language:</h3>
