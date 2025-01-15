@@ -2,7 +2,7 @@
 
 # Hey👋, moi c'est Naguib !
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Cloud+Architecture;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=1F6FEB&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Always+Learning+%F0%9F%92%A1" alt="Typing SVG" />
 
 [![Profile Views](https://komarev.com/ghpvc/?username=naguib-med&style=for-the-badge&color=1f6feb)](https://github.com/naguib-med)
 
