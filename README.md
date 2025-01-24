@@ -1,6 +1,6 @@
 # Hello, I'm Naguib 👋  
 
-👨💻 **Fullstack Developer** | Building secure web apps with React & Node.js/Spring Boot | Future DevSecOps Enthusiast  
+👨💻 **Security-Oriented Fullstack Developer** | Building production-ready apps with React & Spring Boot/Node.js | Aspiring DevSecOps Engineer
 
 ## 🛠️ Tech Stack  
 **Frontend**:  
@@ -11,20 +11,30 @@
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?logo=spring&logoColor=white)
 
-**Security & DevOps (Learning)**:  
+**DevSecOps Toolkit**:  
 ![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
+![Trivy](https://img.shields.io/badge/Trivy-%23FF6C37.svg?logo=aquasecurity&logoColor=white)
 
 ## 🌟 Featured Projects  
-- E-commerce Platform : Fullstack app with JWT auth and payment gateway integration.  
+- **E-commerce Platform**: Fullstack application implementing JWT authentication and Stripe payment integration (Next.js)
 
-## 🛡️ DevSecOps Learning Path  
-- Expérimente l'intégration de scans de vulnérabilités (Trivy) dans des pipelines GitHub Actions.  
-- En cours : Déploiement d'une app React sur AWS avec Terraform.  
+## 🛡️ Security Investment  
+**Building Foundations**  
+- 📖 Mastering OWASP Cheat Sheets  
+- 🧪 Recreating common vulnerabilities in lab environment  
+
+**Automation Exploration**  
+- Testing security linters in local dev workflow  
+- Experimenting with pre-commit hooks for secrets detection  
+
+**Future Targets**  
+- First vulnerability disclosure contribution  
+- AWS Well-Architected Framework security pillar study
 
 ## 📫 Let's Connect!  
-- LinkedIn: [https://www.linkedin.com/in/naguib-mohamed-mahamoud-3baa96177/](https://www.linkedin.com/in/naguib-mohamed-mahamoud-3baa96177/)  
+- LinkedIn: [Naguib Mohamed Mahamoud](https://www.linkedin.com/in/naguib-mohamed-mahamoud-3baa96177/)  
 - Twitter: [@NaguibMoma](https://x.com/NaguibMoma)  
-- Blog: [Medium/moma.naguib](https://medium.com/@moma.naguib) (je partage mes erreurs et découvertes en sécurité !)  
+- Tech Blog: [Medium/moma.naguib](https://medium.com/@moma.naguib) (Sharing security misconfigurations and prevention strategies)  
 
-🎯 **Goal for 2025** : Devenir un "Security-Aware Developer" et contribuer à un projet open source DevSecOps !  
+🎯 **2025 Goal**: Become a security-conscious developer and contribute to DevSecOps open-source tooling!
