@@ -18,6 +18,7 @@
 
 ## 🌟 Featured Projects  
 - **E-commerce Platform**: Fullstack application implementing JWT authentication and Stripe payment integration (Next.js)
+- **DevSecBlueprint Contributor**: Actively contributing to [DevSecBlueprint](https://github.com/devsecblueprint/devsecblueprint), an open-source project focused on DevSecOps practices and tooling.
 
 ## 🛡️ Security Investment  
 **Building Foundations**  
@@ -35,6 +36,6 @@
 ## 📫 Let's Connect!  
 - LinkedIn: [Naguib Mohamed Mahamoud](https://www.linkedin.com/in/naguib-mohamed-mahamoud-3baa96177/)  
 - Twitter: [@NaguibMoma](https://x.com/NaguibMoma)  
-- Tech Blog: [Medium/moma.naguib](https://medium.com/@moma.naguib) (Sharing security misconfigurations and prevention strategies)  
+- Tech Blog: [Medium/moma.naguib](https://medium.com/@moma.naguib)  
 
 🎯 **2025 Goal**: Become a security-conscious developer and contribute to DevSecOps open-source tooling!
