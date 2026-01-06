@@ -38,5 +38,3 @@
 - LinkedIn: [Naguib Mohamed Mahamoud](https://www.linkedin.com/in/naguib-mohamed-mahamoud-3baa96177/)  
 - Twitter: [@NaguibMoma](https://x.com/NaguibMoma)  
 - Tech Blog: [Medium/moma.naguib](https://medium.com/@moma.naguib)  
-
-🎯 **2025 Goal**: Become a security-conscious developer and contribute to DevSecOps open-source tooling!
