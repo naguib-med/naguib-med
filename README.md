@@ -17,22 +17,6 @@
 ![Terraform](https://img.shields.io/badge/Terraform-%235835CC.svg?logo=terraform&logoColor=white)
 ![Trivy](https://img.shields.io/badge/Trivy-%23FF6C37.svg?logo=aquasecurity&logoColor=white)
 
-## 🌟 Featured Projects  
-- **E-commerce Platform**: Fullstack application implementing JWT authentication and Stripe payment integration (Next.js)
-- **DevSecBlueprint Contributor**: Actively contributing to [DevSecBlueprint](https://github.com/devsecblueprint/devsecblueprint), an open-source project focused on DevSecOps practices and tooling.
-
-## 🛡️ Security Investment  
-**Building Foundations**  
-- 📖 Mastering OWASP Cheat Sheets  
-- 🧪 Recreating common vulnerabilities in lab environment  
-
-**Automation Exploration**  
-- Testing security linters in local dev workflow  
-- Experimenting with pre-commit hooks for secrets detection  
-
-**Future Targets**  
-- First vulnerability disclosure contribution  
-- AWS Well-Architected Framework security pillar study
 
 ## 📫 Let's Connect!  
 - LinkedIn: [Naguib Mohamed Mahamoud](https://www.linkedin.com/in/naguib-mohamed-mahamoud-3baa96177/)  
