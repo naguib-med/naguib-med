@@ -63,12 +63,12 @@ J'intègre la sécurité au cœur du cycle de développement : OS hardening, pip
 
 | Obtenues ✅ | En cours / Prévues 🔜 |
 |---|---|
-| Certified Associate Penetration Tester (CAPT) | AWS Certified Cloud Practitioner (mai 2026) |
-| Certified Web Security Expert (CWSE) | AWS Solutions Architect – Associate (juin 2026) |
-| Certified Red Team Operations Management (CRTOM) | CKA – Certified Kubernetes Administrator (août 2026) |
+| Certified Associate Penetration Tester (CAPT) | AWS Solutions Architect – Associate (juin 2026)  |
+| Certified Web Security Expert (CWSE) | CKA – Certified Kubernetes Administrator (août 2026) |
+| Certified Red Team Operations Management (CRTOM) |  |
 | CCNA – Networking & Automation |  |
 | Introduction EBIOS Risk Manager (Club EBIOS) |  |
-
+| AWS Certified Cloud Practitioner | |
 ---
 
 ## 📊 GitHub Stats
